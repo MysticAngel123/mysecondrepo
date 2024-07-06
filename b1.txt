@@ -1,2 +1,5 @@
+
+string name = "hiii";
 i = 10;
+
 
