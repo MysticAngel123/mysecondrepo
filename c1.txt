@@ -1,1 +1,3 @@
+
+string name = "hello";
 int = 100;
